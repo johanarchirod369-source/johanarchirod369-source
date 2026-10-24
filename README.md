@@ -32,7 +32,7 @@
   <a href="https://discord.com/users/TU-ID-DISCORD"><img alt="Discord (opcional)" src="https://img.shields.io/badge/Discord-opcional-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-## Hola, soy TU-NOMBRE 👋
+## Hola, soy Johan Archila 👋
 <!-- ✏️ EDITA: escribe tu nombre real. -->
 
 > 📌 **Aviso:** estoy buscando mi primera oportunidad (práctica o empleo junior). Si tienes una vacante, ¡escríbeme!
@@ -77,17 +77,17 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 <!-- ✏️ EDITA: cambia los proyectos de ejemplo por los tuyos. Formato: **Nombre** — descripción + enlaces. -->
 
 ### 🌐 Aplicaciones web
-- **Proyecto Uno** — Tienda en línea de ejemplo con carrito de compras. [Repo](https://github.com/TU-USUARIO/proyecto-uno) · [Demo](https://TU-USUARIO.github.io/proyecto-uno)
-- **Proyecto Dos** — Gestor de tareas con login y base de datos. [Repo](https://github.com/TU-USUARIO/proyecto-dos)
+- **Proyecto Uno** — Tienda en línea de ejemplo con carrito de compras. [Repo](https://github.com/johanarchirod369-source/proyecto-uno) · [Demo](https://johanarchirod369-source.github.io/proyecto-uno)
+- **Proyecto Dos** — Gestor de tareas con login y base de datos. [Repo](https://github.com/johanarchirod369-source/proyecto-dos)
 
 ### 📱 Móvil
-- **Proyecto Tres** — App de ejemplo para registrar gastos del mes. [Repo](https://github.com/TU-USUARIO/proyecto-tres)
+- **Proyecto Tres** — App de ejemplo para registrar gastos del mes. [Repo](https://github.com/johanarchirod369-source/proyecto-tres)
 
 ### 🎨 Frontend y diseño
-- **Mi Portafolio** — Sitio personal responsive. [Repo](https://github.com/TU-USUARIO/TU-USUARIO.github.io) · [Demo](https://TU-PORTAFOLIO.com)
+- **Mi Portafolio** — Sitio personal responsive. [Repo](https://github.com/johanarchirod369-source/johanarchirod369-source.github.io) · [Demo](https://TU-PORTAFOLIO.com)
 
 <p align="center">
-  <a href="https://github.com/TU-USUARIO/proyecto-uno">
+  <a href="https://github.com/johanarchirod369-source/proyecto-uno">
     <img src="assets/captura-ejemplo.svg" alt="Captura de pantalla del Proyecto Uno" width="480">
   </a>
   <br>
@@ -126,8 +126,8 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 |-------|--------|
 | 🌐 Portafolio | [TU-PORTAFOLIO.com](https://TU-PORTAFOLIO.com) |
 | 💼 LinkedIn | [linkedin.com/in/TU-USUARIO-LINKEDIN](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/) |
-| ✉️ Correo | [tu@correo.com](mailto:tu@correo.com) |
-| 💬 WhatsApp | [Escríbeme](https://wa.me/57TU-NUMERO) |
+| ✉️ Correo | [tu@correo.com](mailto:johan.archirod.369@correo.com) |
+| 💬 WhatsApp | [Escríbeme](https://wa.me/573212963777) |
 | 📄 Hoja de vida | _Sube tu PDF a `assets/` y enlázalo aquí (ver comentario)_ |
 
 <!-- ✏️ EDITA: sube tu PDF a assets/ y cambia la fila de hoja de vida por: [Descargar PDF](assets/CV-Nombre-Apellido.pdf)  (ver GUIA.md, sección 5). -->
@@ -138,3 +138,4 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
   Gracias por visitar mi perfil 💚<br>
   <sub>¿Te sirvió esta plantilla? Dale una ⭐ y compártela con tus compañeros del SENA.</sub>
 </p>
+
